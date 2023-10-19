@@ -1,0 +1,54 @@
+const nome = 'barbara';
+console.log(nome);
+const idade = 18;
+console.log(idade);
+
+const isEstudante=true
+console.log(isEstudante);
+
+const numero1 = 50
+const numero2 = 2
+console.log(numero1+numero2);
+console.log(numero1-numero2);
+console.log(numero1*numero2);
+console.log(numero1/numero2);
+
+const frase = 'Olá mundo :3';
+console.log(frase);
+
+const tamanhoFrase = frase.length
+console.log(tamanhoFrase);
+
+const temNumero = /\d/.test(frase)
+console.log(temNumero)
+
+const listaDeCompras=
+['arroz','feijão','batata']
+console.log(listaDeCompras)
+
+const primeiroltem = listaDeCompras[0];
+console.log(primeiroltem)
+
+const ultimoltem = 
+listaDeCompras[listaDeCompras.length-1]
+console.log(ultimoltem);
+
+const idadeString='18'
+console.log(parselnt(idadeString))
+
+const precoProduto=35.90
+console.log(precoProduto.toFixed());
+
+<script src="Exercicio1.js"></script>
+<script src="Exercicio2.js"></script>
+<script src="Exercicio3.js"></script>
+<script src="Exercicio4.js"></script>
+<script src="Exercicio5.js"></script>
+<script src="Exercicio6.js"></script>
+<script src="Exercicio7.js"></script>
+<script src="Exercicio8.js"></script>
+<script src="Exercicio9.js "></script>
+<script src="Exercicio10.js"></script>
+<script src="Exercicio11.js"></script>
+<script src='Exercicio12.js"></script>
+
